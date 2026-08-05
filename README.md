@@ -10,7 +10,9 @@
 
 [] 03-calculatorConsole
 
-[] 04-calculatorGUI
+[] 04-dreamcastDemo
+
+[] 05-wiiUDemo
 
 ## Stack
 
